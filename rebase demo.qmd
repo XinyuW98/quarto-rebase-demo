@@ -1,26 +1,18 @@
 ---
-title: "week7 Rebase Demo"
+title: "Tu7 Rebase Demo"
 format: html
 editor: visual
 ---
 
-## Quarto
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+# Introduction
 
-## Running Code
+This is a collaborative Quarto project.
 
-When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+# Contributions
 
-```{r}
-1 + 1
-```
+<!-- Student sections will go here -->
 
-You can add options to executable code like this
+# Instructor's Section (student A)
 
-```{r}
-#| echo: false
-2 * 2
-```
-
-The `echo: false` option disables the printing of code (only output is displayed).
+This section was added after Student B began work.
