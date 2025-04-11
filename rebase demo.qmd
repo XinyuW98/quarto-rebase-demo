@@ -1,7 +1,21 @@
 ---
-title: "week7 Rebase Demo"
+title: "Tu7 Rebase Demo"
 format: html
 editor: visual
 ---
 
+
 changes by person2
+
+# Introduction
+
+This is a collaborative Quarto project.
+
+# Contributions
+
+<!-- Student sections will go here -->
+
+# Instructor's Section (student A)
+
+This section was added after Student B began work.
+
